@@ -1,4 +1,4 @@
-# Create method `parrot` that outputs a given phrase and
-d# returns the phrase
-def parrot=
-en
+def parrot(phrase = "Squawk!")
+  puts phrase
+  return phrase
+end 
